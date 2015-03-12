@@ -4,6 +4,7 @@
 #include "constantes.h"
 #include <QtGui>
 //ahah ou suis je qui suis je??
+//COucou jules, la peche
 class Agent
 {
 public:
