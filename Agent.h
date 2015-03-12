@@ -1,10 +1,11 @@
 #ifndef AGENT_H
 #define AGENT_H
-//héhsupermané hoho
+//gaston merci héhsupermané hoho
 #include "constantes.h"
 #include <QtGui>
 //ahah ou suis je qui suis je??
 //COucou jules, la peche
+//oui
 class Agent
 {
 public:
