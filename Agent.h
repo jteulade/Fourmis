@@ -7,6 +7,7 @@
 class Agent
 {
 public:
+  //aaa
     Agent();
     void setPosition(QPoint nPosition);
     void deplace(QPoint dep);
